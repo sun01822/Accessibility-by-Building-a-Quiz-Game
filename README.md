@@ -12,4 +12,5 @@ It is a project from FreeCodeCamp.org. To build this project here we use basic H
 
 
 <hr>
-### Date: 23/09/2022
+<br>
+<b> Date: 23/09/2022</b>
